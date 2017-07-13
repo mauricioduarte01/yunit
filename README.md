@@ -6,7 +6,7 @@ Please check [yunit's web site](http://www.yunit.io) (currently under constructi
  
 **See the file [CODING.md](https://github.com/yunit-io/yunit/blob/master/CODING.md) for build and running instructions**
 ### Translations ###
-For help with translations do a pull request with the changes that you made to the .po file of your language.
+For help with translations go to [yunit's page on Transifex](https://www.transifex.com/yunit/public/) 
 
 ### Contact Us ###
 
